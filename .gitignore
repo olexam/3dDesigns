@@ -1,5 +1,7 @@
 *.FCStd1
+*.FCStd?
 *.stl
 *.gcode
 *.zip
 *.3mf
+*.amf
