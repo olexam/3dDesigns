@@ -1,9 +1,9 @@
 
 pinDiam=8;
-innerDiam=25;
-outerDiam=27;
+innerDiam=27;
+outerDiam=29;
 thikness=0.4;
-height=1.2;
+height=2;
 
 $fn=255;
 
