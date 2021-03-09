@@ -13,7 +13,7 @@ pyramid(x, y, z);
 //pyramid making module bottom centered at origin
 module pyramid(x_length, y_lenght, z_lenght){
 
-	#translate([-x_length/2,-y_lenght/2,0]) 
+	translate([-x_length/2,-y_lenght/2,0]) 
 
 		polyhedron(
 
